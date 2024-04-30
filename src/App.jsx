@@ -4,7 +4,11 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
+<<<<<<< HEAD
   const [count, setCount] = useState(10)
+=======
+  const [count, setCount] = useState(0)
+>>>>>>> main
 
   return (
     <>
